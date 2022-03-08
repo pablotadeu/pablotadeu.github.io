@@ -1,6 +1,6 @@
-## Bio
-
 <a href="https://github.com/datazoompuc/datazoom_social_Stata"><img src="https://raw.githubusercontent.com/pablotadeu/pablotadeu.github.io/master/rio.jpg" align="left" width="100" hspace="10" vspace="5"></a>
+
+## Bio
 
 I am a Ph.D. student at [Department of Economics at PUC-Rio](http://www.econ.puc-rio.br/en). My research interest are in Labor and Development Economics, with emphasis in socieconomic and race inequality.
 
@@ -20,7 +20,8 @@ I am a Ph.D. student at [Department of Economics at PUC-Rio](http://www.econ.puc
 
 ### Teaching
 
-ECO1670 - Economics, Gender and Race
+#### Undergraduate
+ECO1670: Economics, Gender and Race
 
 ### Working in Progress
 
