@@ -2,7 +2,7 @@
 
 I am a Ph.D. student at [Department of Economics at PUC-Rio](http://www.econ.puc-rio.br/en). My research interest are in Labor and Development Economics, with emphasis in socieconomic and race inequality.
 
-**[CV](https://www.dropbox.com/s/cozf56xlpdhzpdc/CV.pdf?dl=0)**
+**<a href="https://www.dropbox.com/s/cozf56xlpdhzpdc/CV.pdf?dl=0" target="_blank">CV</a>** (Portuguese version - <a href="http://lattes.cnpq.br/6714842522157255" target="_blank">Lattes</a>)
 
 ### Education
 
