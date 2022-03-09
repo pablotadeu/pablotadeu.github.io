@@ -1,6 +1,6 @@
 ## Bio
 
-I am a Ph.D. student at [Department of Economics at PUC-Rio](http://www.econ.puc-rio.br/en). My research interest are in Labor and Development Economics, with emphasis in socieconomic and race inequality.
+I am a Ph.D. student at <a href="http://www.econ.puc-rio.br/en" target="_blank">Department of Economics at PUC-Rio</a>. My research interest are in Labor and Development Economics, with emphasis in socieconomic and race inequality.
 
 **<a href="https://www.dropbox.com/s/cozf56xlpdhzpdc/CV.pdf?dl=0" target="_blank">CV</a>** (Portuguese version - <a href="http://lattes.cnpq.br/6714842522157255" target="_blank">Lattes</a>)
 
@@ -13,8 +13,8 @@ I am a Ph.D. student at [Department of Economics at PUC-Rio](http://www.econ.puc
 ### Contact
 
 **E-mail:** pablochavescastro@gmail.com  
-**Social Media:** [Twitter](https://twitter.com/tadeuccastro)  
-**[GitHub](https://github.com/pablotadeu)**
+**Social Media:** <a href="https://twitter.com/tadeuccastro" target="_blank">Twitter</a>    
+**<a href="https://github.com/pablotadeu" target="_blank">GitHub</a>**
 
 ### Teaching
 
