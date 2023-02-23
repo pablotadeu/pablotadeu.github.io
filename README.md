@@ -1,6 +1,6 @@
 ## Bio
 
-I am a Ph.D. student at <a href="http://www.econ.puc-rio.br/en" target="_blank">Department of Economics at PUC-Rio</a>. My research interest are in Labor and Development Economics, with emphasis in socieconomic and race inequality.
+I am a Ph.D. student at <a href="http://www.econ.puc-rio.br/en" target="_blank">Department of Economics at PUC-Rio</a>. My research interest are in Labor and Development Economics.
 
 **<a href="https://www.dropbox.com/s/cozf56xlpdhzpdc/CV.pdf?dl=0" target="_blank">CV</a>** (Portuguese version - <a href="http://lattes.cnpq.br/6714842522157255" target="_blank">Lattes</a>)
 
