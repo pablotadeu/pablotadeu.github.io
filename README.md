@@ -21,6 +21,13 @@ I am a Ph.D. student at <a href="http://www.econ.puc-rio.br/en" target="_blank">
 #### Undergraduate
 ECO1670: Economics, Gender and Race
 
-### Working in Progress
+### Research
+#### Working in Progress
 
+**Labor Unions, Bargaining Power and its Effects on Employment**
+**Slavery, Black Homicides and Incarceration in Brazil** with Maria Oaquim
 **Gender Imbalance and Migration: Evidence from Droughts** with Arnobio Chagas
+
+#### Policy Briefs
+**<a href="https://www.climatepolicyinitiative.org/wp-content/uploads/2023/02/Smallholders-in-the-Caatinga-and-the-Cerrado.pdf" target="_blank">Smallholders in the Caatinga and the Cerrado: A Baseline Analysis for a Rural Just Transition in Brazil</a>** *Climate Policy Initiative*
+**<a href="https://www.climatepolicyinitiative.org/wp-content/uploads/2023/07/Risco-Climatico-na-Caatinga.pdf" target="_blank">Qual É o Risco Climático para os Produtores Rurais na Caatinga? Desafios para a Transição Rural Justa</a>** *Climate Policy Initiative*
