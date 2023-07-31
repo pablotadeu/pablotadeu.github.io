@@ -24,9 +24,11 @@ ECO1670: Economics, Gender and Race
 ### Research
 #### Working in Progress
 
-- **Labor Unions, Bargaining Power and its Effects on Employment**
-- **Slavery, Black Homicides and Incarceration in Brazil** with Maria Oaquim
-- **Gender Imbalance and Migration: Evidence from Droughts** with Arnobio Chagas
+**Labor Unions, Bargaining Power and its Effects on Employment**
+
+**Slavery, Black Homicides and Incarceration in Brazil** with Maria Oaquim
+
+**Gender Imbalance and Migration: Evidence from Droughts** with Arnobio Chagas
 
 #### Policy Briefs
 **<a href="https://www.climatepolicyinitiative.org/wp-content/uploads/2023/02/Smallholders-in-the-Caatinga-and-the-Cerrado.pdf" target="_blank">Smallholders in the Caatinga and the Cerrado: A Baseline Analysis for a Rural Just Transition in Brazil</a>** - *Climate Policy Initiative*
