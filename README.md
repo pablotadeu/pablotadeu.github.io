@@ -31,3 +31,4 @@ ECO1670: Economics, Gender and Race
 #### Policy Briefs
 **<a href="https://www.climatepolicyinitiative.org/wp-content/uploads/2023/02/Smallholders-in-the-Caatinga-and-the-Cerrado.pdf" target="_blank">Smallholders in the Caatinga and the Cerrado: A Baseline Analysis for a Rural Just Transition in Brazil</a>** - *Climate Policy Initiative*
 **<a href="https://www.climatepolicyinitiative.org/wp-content/uploads/2023/07/Risco-Climatico-na-Caatinga.pdf" target="_blank">Qual É o Risco Climático para os Produtores Rurais na Caatinga? Desafios para a Transição Rural Justa</a>** - *Climate Policy Initiative*
+
