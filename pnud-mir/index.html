@@ -11,6 +11,7 @@
       --light: #f4f6f8;
       --text: #2c2c2c;
       --border: #dce3ea;
+      --dash-bg: #eef3f8;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -95,29 +96,29 @@
       color: #555;
       border-bottom: 1px solid var(--border);
     }
-    .link-list {
-      list-style: none;
-      padding: 12px 0;
-    }
-    .link-list li {
+    .text-group {
       border-bottom: 1px solid var(--border);
     }
-    .link-list li:last-child { border-bottom: none; }
-    .link-list a {
+    .text-group:last-child { border-bottom: none; }
+    .text-group a.main-link {
       display: flex;
       align-items: center;
       gap: 14px;
-      padding: 14px 28px;
+      padding: 14px 28px 10px;
       color: var(--primary);
       text-decoration: none;
       font-size: 0.97rem;
       transition: background 0.15s;
     }
-    .link-list a:hover {
+    .text-group a.main-link:hover {
       background: #eef3f8;
       color: var(--accent);
     }
-    .link-list a .num {
+    .text-group a.main-link:hover .num {
+      background: var(--accent);
+      color: #fff;
+    }
+    .num {
       display: inline-flex;
       align-items: center;
       justify-content: center;
@@ -129,10 +130,31 @@
       font-weight: 700;
       color: var(--primary);
       flex-shrink: 0;
+      transition: background 0.15s, color 0.15s;
     }
-    .link-list a:hover .num {
-      background: var(--accent);
+    .dash-link-wrap {
+      padding: 0 28px 12px 70px;
+    }
+    .dash-link-wrap a {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 0.84rem;
+      color: #555;
+      text-decoration: none;
+      background: var(--dash-bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 4px 12px;
+      transition: background 0.15s, color 0.15s;
+    }
+    .dash-link-wrap a:hover {
+      background: var(--primary);
       color: #fff;
+      border-color: var(--primary);
+    }
+    .dash-link-wrap a svg {
+      flex-shrink: 0;
     }
     footer {
       text-align: center;
@@ -168,26 +190,45 @@
       <span class="tag">Produto 2</span>
       <h2>Textos Iniciais – Perfil, Quilombolas e Cotas</h2>
     </div>
-    <ul class="link-list">
-      <li>
-        <a href="texto1.html">
-          <span class="num">1</span>
+
+    <div class="text-group">
+      <a class="main-link" href="texto1.html" target="_blank">
+        <span class="num">1</span>
         <b>Texto 1:</b> Condições de vida da população negra
+      </a>
+      <div class="dash-link-wrap">
+        <a href="texto1_dashboard.html" target="_blank">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          Dashboard
         </a>
-      </li>
-      <li>
-        <a href="texto2.html">
-          <span class="num">2</span>
-          <b>Texto 2:</b> População quilombola: características demográficas e socioeconômicas
+      </div>
+    </div>
+
+    <div class="text-group">
+      <a class="main-link" href="texto2.html" target="_blank">
+        <span class="num">2</span>
+        <b>Texto 2:</b> População quilombola: características demográficas e socioeconômicas
+      </a>
+      <div class="dash-link-wrap">
+        <a href="texto2_dashboard.html" target="_blank">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          Dashboard
         </a>
-      </li>
-      <li>
-        <a href="texto3.html">
-          <span class="num">3</span>
-          <b>Texto 3:</b> Lei de cotas: série histórica de acesso ao ensino superior
+      </div>
+    </div>
+
+    <div class="text-group">
+      <a class="main-link" href="texto3.html" target="_blank">
+        <span class="num">3</span>
+        <b>Texto 3:</b> Lei de cotas: série histórica de acesso ao ensino superior
+      </a>
+      <div class="dash-link-wrap">
+        <a href="texto3_dashboard.html" target="_blank">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          Dashboard
         </a>
-      </li>
-    </ul>
+      </div>
+    </div>
   </div>
 
   <!-- Produto 3 -->
@@ -196,26 +237,45 @@
       <span class="tag">Produto 3</span>
       <h2>Textos Intermediários – Educação, Trabalho e Ambiente</h2>
     </div>
-    <ul class="link-list">
-      <li>
-        <a href="texto4.html">
-          <span class="num">4</span>
-          <b>Texto 4:</b> Educação básica da população negra
+
+    <div class="text-group">
+      <a class="main-link" href="texto4.html" target="_blank">
+        <span class="num">4</span>
+        <b>Texto 4:</b> Educação básica da população negra
+      </a>
+      <div class="dash-link-wrap">
+        <a href="texto4_dashboard.html" target="_blank">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          Dashboard
         </a>
-      </li>
-      <li>
-        <a href="texto5.html">
-          <span class="num">5</span>
-          <b>Texto 5:</b> Presença de docentes negros no ensino superior e outras ocupações qualificadas
+      </div>
+    </div>
+
+    <div class="text-group">
+      <a class="main-link" href="texto5.html" target="_blank">
+        <span class="num">5</span>
+        <b>Texto 5:</b> Presença de docentes negros no ensino superior e outras ocupações qualificadas
+      </a>
+      <div class="dash-link-wrap">
+        <a href="texto5_dashboard.html" target="_blank">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          Dashboard
         </a>
-      </li>
-      <li>
-        <a href="texto6.html">
-          <span class="num">6</span>
-          <b>Texto 6:</b> Racismo ambiental e justiça climática
+      </div>
+    </div>
+
+    <div class="text-group">
+      <a class="main-link" href="texto6.html" target="_blank">
+        <span class="num">6</span>
+        <b>Texto 6:</b> Racismo ambiental e justiça climática
+      </a>
+      <div class="dash-link-wrap">
+        <a href="texto6_dashboard.html" target="_blank">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          Dashboard
         </a>
-      </li>
-    </ul>
+      </div>
+    </div>
   </div>
 
 </main>
