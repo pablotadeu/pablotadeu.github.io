@@ -18,7 +18,7 @@ I am an Assistant Professor at Universidade Federal da Bahia (UFBA) and hold a P
 ### Research
 #### Selected Work in Progress
 
-- Wage Gap Disclosure in the Tropics, with Mayara Felix, Ieda Matavelli and Bobak Pakzad-Hurson. <a href="https://www.mayarafelix.com/papers/Wage_Transparency_RDD.pdf" target="_blank">Draft</a>. <a href="https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas/arquivos/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank"> Policy brief </a> (in Portuguese).
+- <a href="https://www.mayarafelix.com/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Mayara Felix, Ieda Matavelli and Bobak Pakzad-Hurson. <a href="https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas/arquivos/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank"> Policy brief </a> (in Portuguese).
 
 - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5362344" target="_blank"> Labor Unions, Bargaining Power and its Effects on Employment </a>
 
@@ -30,7 +30,7 @@ I am an Assistant Professor at Universidade Federal da Bahia (UFBA) and hold a P
 ### Teaching
 
 #### Undergraduate
-Economics, Gender and Race (2021-2022) -- PUC-Rio
-Introdução à Economia (2026) -- UFBA
-Macroeconomia II (2026) -- UFBA
+- Economics, Gender and Race (2021-2022) -- PUC-Rio
+- Introdução à Economia (2026) -- UFBA
+- Macroeconomia II (2026) -- UFBA
 
