@@ -1,6 +1,6 @@
 ## Bio
 
-I am a researcher fellow at J-PAL Latin America and STC consultancy at The World Bank. I hold a Ph.D. from the <a href="http://www.econ.puc-rio.br/en" target="_blank">Department of Economics at PUC-Rio</a> and my research interest are in Labor and Development Economics.
+I am an Assistant Professor at Universidade Federal da Bahia (UFBA) and hold a Ph.D. from the <a href="http://www.econ.puc-rio.br/en" target="_blank">Department of Economics at PUC-Rio</a>. Previously, I worked as a research fellow at J-PAL Latin America, and an STC consultant at The World Bank. My research interests are in Labor and Development Economics.
 
 **<a href="https://www.dropbox.com/scl/fi/81e16zfx6vtajyvvpvdj7/CV_PabloCastro.pdf?rlkey=aym4g658b4iyh1dxepu61llen&dl=0" target="_blank">CV</a>** (Portuguese version - <a href="http://lattes.cnpq.br/6714842522157255" target="_blank">Lattes</a>)
 
@@ -18,7 +18,7 @@ I am a researcher fellow at J-PAL Latin America and STC consultancy at The World
 ### Research
 #### Selected Work in Progress
 
-- Wage Gap Disclosure in the Tropics, with Mayara Felix, Ieda Matavelli and Bobak Pakzad-Hurson. <em style="color: #999999;">Draft coming soon</em>. <a href="https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas/arquivos/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank"> Policy brief </a> (in Portuguese).
+- Wage Gap Disclosure in the Tropics, with Mayara Felix, Ieda Matavelli and Bobak Pakzad-Hurson. <a href="https://www.mayarafelix.com/papers/Wage_Transparency_RDD.pdf" target="_blank">Draft</a>. <a href="https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas/arquivos/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank"> Policy brief </a> (in Portuguese).
 
 - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5362344" target="_blank"> Labor Unions, Bargaining Power and its Effects on Employment </a>
 
@@ -30,5 +30,7 @@ I am a researcher fellow at J-PAL Latin America and STC consultancy at The World
 ### Teaching
 
 #### Undergraduate
-ECO1670: Economics, Gender and Race
+Economics, Gender and Race (2021-2022) -- PUC-Rio
+Introdução à Economia (2026) -- UFBA
+Macroeconomia II (2026) -- UFBA
 
