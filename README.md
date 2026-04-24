@@ -30,7 +30,7 @@ I am an Assistant Professor at Universidade Federal da Bahia (UFBA) and hold a P
 ### Teaching
 
 #### Undergraduate
-Economics, Gender and Race (2021-2022) -- PUC-Rio
-Introdução à Economia (2026) -- UFBA
-Macroeconomia II (2026) -- UFBA
+- Economics, Gender and Race (2021-2022) -- PUC-Rio
+- Introdução à Economia (2026) -- UFBA
+- Macroeconomia II (2026) -- UFBA
 
