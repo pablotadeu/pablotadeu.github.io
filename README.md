@@ -1,6 +1,6 @@
 ## Bio
 
-I am an Assistant Professor at Universidade Federal da Bahia (UFBA) and hold a Ph.D. from the <a href="http://www.econ.puc-rio.br/en" target="_blank">Department of Economics at PUC-Rio</a>. Previously, I worked as a research fellow at J-PAL Latin America, and an STC consultant at The World Bank. My research interests are in Labor and Development Economics.
+I am Assistant Professor at Universidade Federal da Bahia (UFBA) and hold a Ph.D. from the <a href="http://www.econ.puc-rio.br/en" target="_blank">Department of Economics at PUC-Rio</a>. Previously UFBA, I worked as a research associate at J-PAL Latin America, and STC consultant at The World Bank. My research interests are in Labor and Development Economics.
 
 **<a href="https://www.dropbox.com/scl/fi/81e16zfx6vtajyvvpvdj7/CV_PabloCastro.pdf?rlkey=aym4g658b4iyh1dxepu61llen&dl=0" target="_blank">CV</a>** (Portuguese version - <a href="http://lattes.cnpq.br/6714842522157255" target="_blank">Lattes</a>)
 
