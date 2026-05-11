@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: Pablo Castro
 description: Assistant Professor, UFBA
 logo: /assets/img/foto.jpeg
+
+# Forçar inclusão das pastas de material do curso (Jekyll ignora pastas que começam com "_" por padrão)
+include:
+  - macro2/_Aulas
+  - macro2/_Listas
