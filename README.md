@@ -12,7 +12,7 @@ I am Assistant Professor at Universidade Federal da Bahia (UFBA) and hold a Ph.D
 
 ### Contact
 
-**E-mail:** pablochavescastro@gmail.com  
+**E-mail:** pablochavescastro@gmail.com / pablocastro@ufba.br
 **<a href="https://github.com/pablotadeu" target="_blank">GitHub</a>**
 
 ### Research
